@@ -1,0 +1,23 @@
+<html lang="en">
+    <body>
+        <head>
+        hi bobby
+        <video src=""></video>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+        <title> hi bobby </title> 
+        </head> 
+        <h1> My bookmarks </h1> 
+        <h2> My bookmarks </h2>
+        <p style="background-color: thistle;">  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores voluptatem, maxime sunt dolorum quos laudantium enim, quibusdam reprehenderit temporibus provident quia velit facilis!</p>
+        <h1> bookmarks</h1>
+         <p><a target="_blank"href="https://www.google.com/?hl=en-GB">open google</a></p>
+         <p><a target="_blank"href="https://www.google.com/?hl=en-GB">open google</a></p>
+          <p><a target="_blank"href="https://www.google.com/?hl=en-GB">open google</a></p>
+            <p><a target="_blank"href="https://www.google.com/?hl=en-GB">open google</a></p>
+        <h2>bookmarks</h2>
+        <a target="_blank" href="https://www.google.com/?hl=en-GB">open google</a>
+        <img src="" alt="">
+
+    </body>
+</html>
