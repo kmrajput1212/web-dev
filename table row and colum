@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<body>
+  <link rel="stylesheet" href="style2.css">  
+<table>
+    <caption> student details </caption>
+    <thead>
+    <tr>
+<th> Name</th>
+<th> age </th>
+<th> language </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td> bobby</td>
+        <td> IT</td>
+        <td> writer</td>
+    </tr>
+    <tr>
+        <td> aditi</td>
+        <td> 10</td>
+        <td> student </td>
+    </tr>
+    <tr>
+    <td colspan="2"> sam</td>
+    <td rowspan="2"> java</td>
+    </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+    <td colspan="2"> sam</td>
+    <td rowspan="2"> java</td>
+    </tr>
+    </tfoot>
+</table>
+<ul type="circle">
+    <li> bobby</li>
+    <li> aditi</li>
+    <li>amisha</li>
+</ul>
+<ol type="A">
+<li> bobby</li>
+    <li> aditi</li>
+    <li>amisha</li>
+</ol>
+<dl> body</dl>
+<dd>
+    hi
+</dd>
+
+</body>
+</head>
+</html>
